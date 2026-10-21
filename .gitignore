@@ -218,3 +218,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Training and testing datasets
+data/
+
+# Trained AI models and checkpoints
+checkpoints/
+*.pth
+*.pt
+
+# Local database files (change accordingly if you use a different database)
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary prediction outputs
+outputs/
