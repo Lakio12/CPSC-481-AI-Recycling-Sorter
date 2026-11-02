@@ -220,7 +220,11 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Training and testing datasets
-data/
+# Only saving placeholder files, mainly for structure/show
+Data/Raw/*
+Data/Splits/*
+!/Data/Raw/.gitkeep
+!/Data/Splits/.gitkeep
 
 # Trained AI models and checkpoints
 checkpoints/
