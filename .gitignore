@@ -225,6 +225,8 @@ Data/Raw/*
 Data/Splits/*
 !/Data/Raw/.gitkeep
 !/Data/Splits/.gitkeep
+# TrashNet images unzipped where src/dataset.py expects them (~2500 jpgs, never commit)
+Data/dataset-resized/
 
 # Trained AI models and checkpoints
 checkpoints/

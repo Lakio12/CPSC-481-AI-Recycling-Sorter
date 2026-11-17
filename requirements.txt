@@ -1,0 +1,17 @@
+# Core model stack (PyTorch). For a CUDA build on Windows/Linux, install torch and
+# torchvision first with the command from https://pytorch.org/get-started/locally/
+# then run: pip install -r requirements.txt
+torch>=2.0
+torchvision>=0.15
+
+# Data loading / splitting (src/dataset.py)
+scikit-learn>=1.3
+numpy>=1.24
+pillow>=10.0
+
+# Training progress bars and result plots (Reports/)
+tqdm>=4.65
+matplotlib>=3.7
+
+# Tests
+pytest>=7.0
