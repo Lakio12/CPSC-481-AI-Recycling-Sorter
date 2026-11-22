@@ -238,5 +238,8 @@ checkpoints/
 *.sqlite
 *.sqlite3
 
+# Temporary camera captures
+captured_image.jpg
+
 # Temporary prediction outputs
 outputs/

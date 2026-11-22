@@ -17,7 +17,7 @@ def load_model():
     # Model for inference
     pass
 
-def predict_iamge(image, model):
-    # Preprcess an image and predict its
-    # Waste Categor
+def predict_image(image, model):
+    # Preprocess an image and predict its
+    # Waste Category
     pass

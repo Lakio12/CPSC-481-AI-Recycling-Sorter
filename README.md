@@ -6,3 +6,7 @@ This is a group project for CPSC 481. The basis is an AI powered recycling utili
 Contributors:
 
 Model :
+
+Install Dependencies (Development):
+python -m pip install -r requirements.txt
+

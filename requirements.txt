@@ -15,3 +15,6 @@ matplotlib>=3.7
 
 # Tests
 pytest>=7.0
+
+# Frontend / Camera (App/)
+opencv-python>=4.8
